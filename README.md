@@ -1,6 +1,6 @@
 # hoanghailethe.github.io 
 ## Hi there! Welcome to my place 👋
-### I am Hoang Hai ⚡
+### I am Hai Hoang, you can call me Hai ⚡
 - :octocat:  Experienced backend developer for banking system.
 - 🌱 I’m currently improve and working on AWS Cloud projects
 - 👯 I’m looking to collaborate on Web/apps project (production) for start up company
